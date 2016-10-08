@@ -112,7 +112,7 @@ Write-Host "Done"
 - Persistent Azure PowerShell logins: [https://blogs.msdn.microsoft.com/stuartleeks/2015/12/11/persisting-azure-powershell-logins/][4]
 - Download and import Publish Settings and Subscription Information [https://msdn.microsoft.com/en-us/library/dn385850(v=nav.70).aspx][3]
 
-[1]: images\1.png
-[2]: images\2.png
+[1]: images/1.png
+[2]: images/2.png
 [3]: https://msdn.microsoft.com/en-us/library/dn385850(v=nav.70).aspx
 [4]: https://blogs.msdn.microsoft.com/stuartleeks/2015/12/11/persisting-azure-powershell-logins/
