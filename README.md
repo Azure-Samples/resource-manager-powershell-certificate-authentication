@@ -7,7 +7,7 @@ author: msonecode
 # Access Azure resource data by certificate authentication in Powershell
 
 ## Introduction
-This sample demonstrates how to automatically get a list of all the resources (VMs, Storage Accounts, Databases, App Services) and status via Powershell by certificate authentication. 
+This sample demonstrates [how to automatically get a list of all the resources (VMs, Storage Accounts, Databases, App Services) and status via Powershell by certificate authentication](https://gallery.technet.microsoft.com/Access-Azure-resource-data-ca9cc9f7). 
 
 ## Scenarios
 In some cases, IT admins would like to have the statistics of all azure resources (VMs, Storage Accounts, Databases, App Services) and status information. This Windows PowerShell script will help IT admins to get resources info.
