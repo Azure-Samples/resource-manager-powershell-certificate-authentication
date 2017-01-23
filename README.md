@@ -28,7 +28,7 @@ GetAzureResourceList -RmProfilePath $RmProfilePath -PublishSettingsFilePath $Pub
 ```
 - Open the powershell and run the script file GetAzureResourceList.ps1  
 ![][1]  
-- After the script has finished its job, you will see the similar file output as this one  
+- After the script has finished its job, you will get a resource list file.   
 ![][2]
 - Here are some code snippets for your reference 
 ```ps1
